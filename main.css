@@ -1,0 +1,84 @@
+html{
+	padding: 0;
+	margin: 0;
+	background-color: #000;
+}
+
+
+
+header{
+	text-align: center;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+}
+
+.apple {
+	display: inline-block;
+	margin: 0 20px;
+	padding: 18px 21px;
+	background-color: #000;
+}
+.img1 {
+	height: 18px;
+	width: 18px;
+}
+
+.img2 {
+	height: 550px;
+	width: 100%;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.img3 {
+	height: 190px;
+	width: 330px;
+}
+
+div {
+	text-align: center;
+	display: inline-block;
+	position: relative;
+}
+
+#wrapper	{
+	background-color: white;
+}
+
+.container1	{
+	width: 100%;
+}
+
+.content {
+	float: top;
+}
+
+footer {
+	background-color: white;
+	float: center;
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+	display: block;
+	position: relative;
+	text-align: left;
+}
+
+.shop {
+	font-style: bold;
+
+}
+
+.container2 {
+	display: inline-block;
+	height:	195px;
+	width: 340px;
+}
+
